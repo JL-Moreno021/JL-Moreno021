@@ -9,7 +9,7 @@ I am a Information Technology graduate pursuing a career in Data Analytics focus
 >---
 ### <img src='images/project.png' width=2%> Data Analytics Projects
 
-#### **E-Commerce Customer Churn Audit** | _Supervised Learning and Business Analytics_
+#### [**E-Commerce Customer Churn Audit**](https://github.com/JL-Moreno021/Customer-Churn-Audit) | _Supervised Learning and Business Analytics_
 **Methodology:** Modeled customer churn with scikit-learn pipelines to identify at-risk customers, benchmarking logistic regression against tuned XGBoost.<br>
 **Stack:** Python, Pandas, Numpy, Matplotlib/Seaborn, Tableau<br>
 **Main Findings:** Translated customer account and usage data into churn risk predictions by benchmarking logistic regression against tuned XGBoost.
