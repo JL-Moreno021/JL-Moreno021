@@ -14,7 +14,7 @@ I am a Information Technology graduate pursuing a career in Data Analytics focus
 **Stack:** Python, Pandas, Numpy, Matplotlib/Seaborn, Tableau<br>
 **Main Findings:** Translated customer account and usage data into churn risk predictions by benchmarking logistic regression against tuned XGBoost.
 >---
-**<img src='images/briefcase.png' width=2%> Professional Experience**
+**<img src='images/briefcase.png' width=2%> Internships**
 * Information Systems Security Department Intern (Oct. - Dec. 2025): Focused on Ticketing System and Administrative Works
 * IT Operations Intern (Mar. - Apr.): Focused on providing Technical Support and Troubleshooting
 
